@@ -1,6 +1,6 @@
 # Welcome to Core!
 
-[Image]("./assets/icon.png")
+![Image]("/assets/icon.png")
 
 ## Introduction
 
