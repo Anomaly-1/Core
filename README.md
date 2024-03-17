@@ -1,8 +1,10 @@
 # Welcome to Core!
 
+[Image]("./assets/icon.png")
+
 ## Introduction
 
-Core is a mobile application built using Expo that aims to [brief description of your app's purpose].
+Core is a mobile application built using Expo that aims to help people waste less resources and help the environment.
 
 ## Get Started
 
