@@ -1,6 +1,6 @@
 # Welcome to Core!
 
-![Thumbnail](thumbnail.png")
+![Thumbnail](thumbnail.png)
 
 ## Introduction
 
