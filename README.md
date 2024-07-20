@@ -5,6 +5,7 @@
 ## Introduction
 
 Core is a mobile application built using Expo that aims to help people waste less resources and help the environment.
+(Made with Expo)
 
 ## Get Started
 
@@ -29,4 +30,4 @@ By making small changes in your daily habits, you can make a positive impact on 
 
 ## License
 
-[Your App Name] is open-source software licensed under the [BSD-Clause-3](https://opensource.org/license/bsd-3-clause).
+Core is open-source software licensed under the [BSD-Clause-3](https://opensource.org/license/bsd-3-clause).
